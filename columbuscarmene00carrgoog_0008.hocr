@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./columbuscarmene00carrgoog_0008.png"; bbox 0 0 790 1106; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 116 131 639 270">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 116 131 639 270">
+     <span class='ocr_line' id='line_1_1' title="bbox 116 131 639 204; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 116 131 639 204; x_wconf 87' lang='lat' dir='ltr'>COLUMBUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 152 228 609 270; baseline -0.002 -2"><span class='ocrx_word' id='word_1_2' title='bbox 152 229 390 269; x_wconf 85' lang='lat' dir='ltr'>CARMEN</span> <span class='ocrx_word' id='word_1_3' title='bbox 407 228 609 270; x_wconf 84' lang='lat' dir='ltr'>EPICUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 137 295 621 340">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 137 295 621 340">
+     <span class='ocr_line' id='line_1_3' title="bbox 137 295 621 340; baseline -0.008 -8"><span class='ocrx_word' id='word_1_4' title='bbox 137 297 320 334; x_wconf 73' lang='lat' dir='ltr'>Eminent.&#39;’⁰,</span> <span class='ocrx_word' id='word_1_5' title='bbox 334 295 373 331; x_wconf 69' lang='lat'>&amp;²</span> <span class='ocrx_word' id='word_1_6' title='bbox 381 297 478 331; x_wconf 56' lang='lat' dir='ltr'>Reva</span> <span class='ocrx_word' id='word_1_7' title='bbox 487 295 621 340; x_wconf 74' lang='lat' dir='ltr'><em>principi</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 117 363 640 482">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 117 363 640 482">
+     <span class='ocr_line' id='line_1_4' title="bbox 117 363 640 420; baseline -0.002 -2"><span class='ocrx_word' id='word_1_8' title='bbox 117 363 640 420; x_wconf 86' lang='lat' dir='ltr'>BENEDICTO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 174 440 583 482; baseline 0 -2"><span class='ocrx_word' id='word_1_9' title='bbox 174 440 583 482; x_wconf 85' lang='lat' dir='ltr'>PAM-PHILIO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 250 507 509 532">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 250 507 509 532">
+     <span class='ocr_line' id='line_1_6' title="bbox 250 507 509 532; baseline -0.004 -1"><span class='ocrx_word' id='word_1_10' title='bbox 250 507 509 532; x_wconf 91' lang='lat' dir='ltr'>DICATUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 127 563 709 1038">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 127 563 709 1038">
+     <span class='ocr_line' id='line_1_7' title="bbox 127 563 709 1038; baseline 0 68"><span class='ocrx_word' id='word_1_11' title='bbox 127 563 709 1038; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
